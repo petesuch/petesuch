@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @petesuch
-- 👀 I’m interested in mostly Mongodb at the moment and open source projects.
-- 🌱 I’m currently learning Python-mongo interface
-- 💞️ I’d like to collaborate on an LFS (Linux From Scratch) package manager that uses a document-based db like Mongo.
+- 👀 Interested in Mongo and JS and open source projects.
+- 💞️ I’d like to do a collaboration using Linux From Scratch and create a package manager that uses a nosql db
 - 📫 How to reach me visiondoctor2020@gmail.com peter.suchsland@gmail.com.
-
+ 
 
 
